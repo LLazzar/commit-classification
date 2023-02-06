@@ -1,0 +1,906 @@
+__label__features add attribute feature request filter example how use
+__label__nonfunctional use fix key length 8 berkeleyje adapter which improve performance
+__label__perfective minor optimization ridbag
+__label__nonfunctional improve sql parser performance
+__label__corrective new ui vm wizard fix bug click template select
+__label__perfective jbrules 1520 move test correct test file git svn id https svn jboss org repos labs labs jbossrules trunk 19375 c60d74c8 e8f6 0310 9e8f d4a2fc68ab70
+__label__corrective alluxio 1747 fix bug validateconf master side storage alias
+__label__perfective 98 add accept infrastructure zip job include validation zip structure extraction properties
+__label__corrective address comment fix errors punctuation
+__label__features hadoop 6148 implement fast pure java crc32 calculator which outperform java util zip crc32 contribute todd lipcon scott carey git svn id https svn apache org repos asf hadoop common trunk 794944 13f79535 47bb 0310 9956 ffa450edef68
+__label__unknown wfly 5774 remove methods duplicate default implementations
+__label__features wfly 8986 move single license xml source file feature pack
+__label__features remove ldap validation object remove feature
+__label__nonfunctional improve test verify task map distribute object find partition
+__label__corrective hudson 3077 fix random failure
+__label__features add spinner background hack featuretoggles demo activity
+__label__corrective fix return type resetvmpassword upgradevirtualmachine command fix response resetvmpassword vm rather success failure make sure password transient variable resetvmpassword command new password return user
+__label__unknown hbase 16776 remove duplicate versions countrow test
+__label__corrective cloudstack 7865 fix pep8 errors errors wrong reference
+__label__features ssl feature add client
+__label__unknown wfly 6868 remove deprecate duplicate class acceptencodinggzipinterceptor
+__label__features add news windows installer feature
+__label__nonfunctional improve support concurrent test performancetest also fiddle measure performance metrics dateservice without get reliable result
+__label__corrective alluxio 2977 fix fail test
+__label__corrective hadoop 6906 filecontext copy utility work recursive copy directories vinod k v via mahadev git svn id https svn apache org repos asf hadoop common trunk 987374 13f79535 47bb 0310 9956 ffa450edef68
+__label__perfective rename jettypemapper constants
+__label__nonfunctional significantly improve longencodingstrategy auto build performance 4215
+__label__corrective new ui update port forward rule fix bug items null
+__label__perfective hbase 17732 coprocessor design improvements
+__label__features add channelobservable get
+__label__perfective refactoring cleanup remove tcpc multicoltable extend jpanel etc revise class structure
+__label__nonfunctional weld 614 performance improvements via simpler data structure
+__label__features match root doc inner object match nest filter miss value use sort root doc close 3020
+__label__nonfunctional small tweak streamline performance code change row search pattern search broadly quickly which seem slightly improve decode performance
+__label__corrective suffice pick remoting transitive dependency core fix problem report http www nabble com build 1 93 noclassdeffounderror maven 2 build tf3483998 html
+__label__perfective jbrules 3668 format shorten kproject xml file
+__label__corrective fix bug add item fail appear red next successfully add item appear red fix next successfully add item appear green
+__label__corrective hadoop 2295 fix assign region multiple servers git svn id https svn apache org repos asf lucene hadoop trunk src contrib hbase 599578 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective bug 10232 cloudstack ui instance page fix bug vmname decode when encode api response set true
+__label__corrective fix jenkins 9634 fix bug mac os x arg parse code
+__label__corrective fix bug current setup ui linux
+__label__corrective hbase 14807 testwallockup flakey
+__label__corrective cloudstack 6047 fix fail enable vpn
+__label__corrective cloudstack 6624 ui create network offer cloudstack support specifyipranges isolate network fix bug wrongly send specifyipranges true createnetworkoffering api
+__label__corrective bug 12233 cloudstack 3 0 new ui public network delete ip range fix bug id get pass api call
+__label__corrective jenkins 7836 tentative fix copy slave master issue problem look similar jenkins 7745 might well synchronize proxyinputstream
+__label__nonfunctional add concurrent ccpbh implementation w 8 performance improvement stress test significantly cleaner dead client host removal semantics
+__label__nonfunctional work create link command improve performance reduce memory use
+__label__nonfunctional merge pull request 7307 stuartwdouglas performance improvements
+__label__nonfunctional improve test performances sq reuse iconnection dbunits
+__label__perfective update mmtf structure decoder due upstream refactoring mmtf java project
+__label__unknown dead 4142 ui ip address page configuration tab filter remove duplicate code
+__label__perfective set iscreatecamelcontextperclass test pass speed test git svn id https svn apache org repos asf camel trunk 1152396 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective cloudstack 7771 throw exception restore vm template already delete also fix usage event generate right template id fix log message which sometime show incorrect template id
+__label__corrective fix py 2674 assignment replace augment assignmet break context
+__label__perfective subscribe methods type action arguments
+__label__perfective regenerate refactor package structure gratex service
+__label__corrective cloudstack 7691 fix exception raise issue test project limit py
+__label__nonfunctional sonar 6068 improve performance filesystem query operation
+__label__corrective experimental attempt fix rare arrayindexoutofboundsexception
+__label__perfective project structure management iii improvements
+__label__corrective bug 11255 cloudstack ip address page create firewall rule fix bug google chrome change protocol dropdown e g tcp icmp correctly hide show relate input field
+__label__nonfunctional 1462 implement functionality process product batch improve solr index performance
+__label__corrective partial fix 1052 problem descriptorimpl class public
+__label__features feature 809 import pubmed central id import pmc field bibtex pubmed medline record field analogous pubmed identifiers pubmed id doi pii use nih grant applications when list publications produce nih fund work
+__label__perfective make conversionexecutor internal remove unused operations public spi
+__label__perfective camel 1134 make zipdataformat stream friendly git svn id https svn apache org repos asf activemq camel trunk 722005 13f79535 47bb 0310 9956 ffa450edef68
+__label__perfective method cache classdescriptorserializer
+__label__perfective data structure refactoring
+__label__features update new feature section
+__label__perfective hbase 1447 take last version hbase 1249 design doc make documentation git svn id https svn apache org repos asf hadoop hbase trunk 785081 13f79535 47bb 0310 9956 ffa450edef68
+__label__features external system add clickable link log folder project import failure message
+__label__nonfunctional tiny performance improvement
+__label__corrective new ui domain page fix js bug selecteddomaintreenode data jsonobj object
+__label__perfective tidy default jms configurations detail see http cwiki apache org camel jms html git svn id https svn apache org repos asf activemq camel trunk 545124 13f79535 47bb 0310 9956 ffa450edef68
+__label__perfective change ziparchiveentry use optimize data structure
+__label__nonfunctional remove flush improve network performance
+__label__unknown remove duplicate configuration validation
+__label__corrective camel 2510 fix issue mix jetty http route screw uri use httpclient git svn id https svn apache org repos asf camel trunk 917529 13f79535 47bb 0310 9956 ffa450edef68
+__label__features add fix https issue apache org activemq browse camel 347 enable juel invoke methods expressions git svn id https svn apache org repos asf activemq camel trunk 631503 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective fix jenkins 9397 fix bug implementation add test
+__label__features wfly 7409 bantransitivedependencies full feature pack module ibm jdk
+__label__nonfunctional tachyon 807 use precondition check tachyonfs get improve readability
+__label__corrective test fix simplify logic
+__label__corrective jenkins 32852 fix possible arrayindexoutofboundsexception rangeset fromstring
+__label__nonfunctional index improvement ridcontainer add value performance
+__label__nonfunctional add gc call which improve performance bite
+__label__nonfunctional improve performance beantoarray
+__label__corrective add miss apiresponse go rename petapi test go fix compilation error
+__label__corrective ui bug fix update vm info add remove nic
+__label__perfective mapreduce 2899 replace major part applicationsubmissioncontext containerlaunchcontext arun murthy via mahadev merge r1170459 trunk git svn id https svn apache org repos asf hadoop common branch branch 0 23 1170460 13f79535 47bb 0310 9956 ffa450edef68
+__label__nonfunctional avg function small refactoring improve code reuse fix possible
+__label__unknown duplicate conditional body virtualsystemsettingdatahandler java
+__label__corrective bug 9101 cloudstack ui edit instance fix bug haenabled dropdown empty
+__label__corrective jbrules 2339 jbrules 2440 fix ruleflow group management git svn id https svn jboss org repos labs labs jbossrules trunk 32725 c60d74c8 e8f6 0310 9e8f d4a2fc68ab70
+__label__nonfunctional optimize operformancestatisticmanager getsessionperformancestatistic 3k ops single thread index cluster insert
+__label__corrective cs 15471 fix wrong type update customer gateway lifetime
+__label__corrective hadoop 6133 add cache layer configuration getclassbyname alleviate performance regression introduce compatibility layer contribute todd lipcon git svn id https svn apache org repos asf hadoop common trunk 812285 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective fix bug use sql projection object database interface return always document instead pojos when odocument class associate
+__label__nonfunctional issue 2901 pool performance improve 255 000 ins benchmark
+__label__corrective camel 2636 fix issue ioexception bad file descriptor git svn id https svn apache org repos asf camel trunk 934852 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective cloudstack 9728 fix traffic sentinel http 414 error response
+__label__corrective tachyon 1092 fix fail test ufs address set twice differently
+__label__corrective cloudstack 2322 update network gateway fix deployvm error
+__label__nonfunctional improve performance traverse
+__label__features implement support incremental update kcontainers
+__label__nonfunctional improve tobytes writejsonstring performance
+__label__features combine feature jbpm 4526 reoccurring job bz 1171859 history log cleanup provide possibility schedule automatic cleanup log background job
+__label__nonfunctional improve performance script compile
+__label__features add static settransformer feature
+__label__corrective yarn 3379 fix miss data localitytable resourcerequests table rm webui contribute xuan gong cherry pick commit 4e886eb9cbd2dcb128bbfd17309c734083093a4c
+__label__features add friendcaster feature impls
+__label__nonfunctional improve performance clone omvrbtreerid object query items copy
+__label__nonfunctional update async executor documentation improve readability correct typos
+__label__features jclouds 200 consolidate feature specific aws provider
+__label__perfective hbase 920 make region balance sloppier git svn id https svn apache org repos asf hadoop hbase trunk 704781 13f79535 47bb 0310 9956 ffa450edef68
+__label__nonfunctional improve scroll performances little
+__label__corrective extract function make member top level function private default
+__label__corrective hbase 1869 indexedtable delete fail when use conjunction rowlock git svn id https svn apache org repos asf hadoop hbase trunk 819060 13f79535 47bb 0310 9956 ffa450edef68
+__label__features add initial log4j properties roll file append feature conf directory
+__label__corrective cloudstack 9688 fix fail test volumes centos7 kvm
+__label__perfective hbase 3082 icv get first look memstore read storefiles prakash via jgray git svn id https svn apache org repos asf hbase trunk 1026910 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective api fix nullpointerexception apiresponsehelper domainresponse
+__label__perfective test rename variables scriptservicetests
+__label__nonfunctional issue 2901 pool performance improve 255 000 ins benchmark
+__label__features remove computevisibleglyphs add truncate feature glyphlayout
+__label__corrective account page fix bug wrong parameter pass listusers api
+__label__corrective fix issue 417
+__label__perfective reimplemented extension literal definition call comply jquery conventions
+__label__nonfunctional jbrules 1915 improve process persistence usability
+__label__perfective add angleutiltest test angleutils believe one probably delete project structure refactor something like
+__label__nonfunctional core 2528 oracle improve unique constraint snapshot query performance
+__label__corrective correctly size icon completion extender
+__label__features implement new command truncate cluster truncate class
+__label__nonfunctional improve serialize performance
+__label__perfective add test lookups classifier members
+__label__corrective fix potential npe
+__label__corrective hbase 10449 wrong execution pool configuration hconnectionmanager git svn id https svn apache org repos asf hbase trunk 1563878 13f79535 47bb 0310 9956 ffa450edef68
+__label__perfective svm base logical structure extractor test model file add
+__label__nonfunctional test performance improvement allow multiple hudsons reuse classloaders
+__label__corrective yarn 2065 cannot create new containers restart git svn id https svn apache org repos asf hadoop common branch branch 2 1607440 13f79535 47bb 0310 9956 ffa450edef68
+__label__unknown dead 7828 avoid mark ips already allocate allocate use row lock ensure prev state either allocate free inturn avoid log duplicate events
+__label__corrective fix problem remote connection distribute storage
+__label__features experimental modification save action incorporation exact duplicate removal duplicate removal experimental addition autocompletion feature
+__label__corrective groupby groupedobservables subscribe parent sequence https github com netflix rxjava issue 282 refactored maintain single subscription propagate events correct child groupedobservables
+__label__perfective major refactoring pull away svn base maven structure
+__label__nonfunctional improve performance wait schema agreement
+__label__features implement new automatic index use orientdb build index feature
+__label__features add support update load feature plugins thank raphfrk
+__label__nonfunctional sonar 4907 enhance readability search relate info system page
+__label__perfective debug output remove
+__label__nonfunctional improve performance retrieve field document
+__label__corrective agent fix typo error message when hvm enable
+__label__features jira hbase 5074 support checksums hbase block cache author dhruba summary hfile enhance store checksum block hdfs checksum verification avoid read data block cache checksum verification failure retry file system read request hdfs checksums switch thank todd benchmark show reduce iops disk 40 experiment entire memory regionserver allocate regionserver jvm os buffer cache size negligible also measure negligible 5 additional cpu usage use hbase level checksums salient point patch 1 hfile trailer use 4 byte version number enhance 4 bytes interpret major version number minor version pre exist hfiles minor version 0 new hfile format minor version 1 thank mikhail hfile major version remain unchanged 2 reason introduce new major version number code change need store read checksums differ much exist v2 writers readers 2 introduce hfilesystem object which encapsulate filesystem object need access data hfiles hlogs hdfs filesystem object already ability switch checksum verifications read 3 majority code change locate hbase io hfie package retry read initial checksum failure occur inside hbase io hfile package code change hbase regionserver package minor 4 format hfileblock header follow data follow checksum 16 k configurable size data 4 byte checksum hfileblock header two additional field 4 byte value store bytesperchecksum 4 byte value store size user data exclude checksum data well explain associate javadocs 5 add test test backward compatibility write unit test trigger checksum verification failures aggressively leave redundant log message code easier debug remove later stage patch also add metrics number checksum verification failures success later version diff 6 default hbase level checksums switch hdfs level checksums switch hfile read change hlog code path test plan default set switch hbase checksums hfile read thus exist test actually validate new code piece write unit test trigger checksum verification failures reviewers mbautin review mbautin cc jira tedyu mbautin dhruba todd stack differential revision https review facebook net d1521 git svn id https svn apache org repos asf hbase trunk 1298641 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective cloudstack 8047 ui zone wizard add primary storage step zone wide primary storage fix bug fail get cluster hypervisor value previous step e g add host step ever fail
+__label__perfective improve whole structure prepare first release
+__label__nonfunctional use restrictive filter external tld scan improve performance
+__label__corrective hudson 4941 log which file xml parse error assist diagnosis fix
+__label__corrective fix hudson 2221 fix 1 250 actually unrelated veto manually invoke make bug explicit
+__label__corrective edit instance fix bug json listserviceofferingsresponse serviceoffering undefined
+__label__corrective cloudstack 3 0 ui fix js error selectednetworkofferingobj define
+__label__perfective start improve structure tutorial modules
+__label__corrective fix issue 649 need add base64 pad character encode md5 hash decode report contribute andy dennie
+__label__perfective simplify testcluster testcluster use reference count anymore testcluster name base creation time prevent confilcts build hang
+__label__corrective add logic handle 2xx response code bug fix string response
+__label__corrective cloudstack 5557 ui network guest network ip address fix bug sourcenat ip vpc tier ip wrongly show configuration tab firewall portforwarding loadbalancing
+__label__features refactor sub fetch phase also allow hit level execution
+__label__corrective devcloud fix default template url deploydb error
+__label__corrective cloudstack 5980 fix test case fail error read ssh protocol banner ssh error
+__label__perfective move databasereaders initialization ingestgeoipplugin onmodule
+__label__perfective packge structure refactor
+__label__perfective confuse javadoc toobservable future methods https github com netflix rxjava issue 148
+__label__features initial commit module compute metrics query initial squash commit work new feature query metrics propose 18798
+__label__nonfunctional hive 2370 improve rcfilecat performance significantly tim armstrong via ning zhang
+__label__features revert contextsuggester revert context suggester due 5525 release feature delay untile v1 2 revert commit 44f52e474cc68e2dbd4515304f0fd7f109951da5 revert commit 8c592101aee9640b42bd9336db33ad7f09d339d2
+__label__corrective bug 10406 fix concurrency problem happen agent transfer monitor task
+__label__perfective add marker cachedfilter allow easily globally check cache filter filter cache use marker interface
+__label__corrective hudson 5391 fix infamous turkish bug
+__label__nonfunctional improve match operator performances store compile pattern
+__label__features query dsl add filter close 216
+__label__features add putifabsent cache abstraction commit add putifabsent method cache interface method offer atomic put key already associate cache issue spr 11400
+__label__corrective cs 15801 cloudstack 3 0 ui vpc create new tier fix error owner vpc specify vpcid different network owner acct 2 admin
+__label__nonfunctional sonar 3537 improve performances treemap filter
+__label__corrective fix issue http client connector correctly report connection io errors
+__label__unknown fix duplicate build view build history when nest folders
+__label__nonfunctional usability improvements input state badge
+__label__nonfunctional improve testability hostcontrollerexecutionsupport creation
+__label__corrective libvirtcomputingresource fix coverity scan recent bugfixes reveal potential unhandled null getresizescripttype
+__label__features yarn 3361 capacityscheduler side change support non exclusive node label contribute wangda tan cherry pick commit 0fefda645bca935b87b6bb8ca63e6f18340d59f5
+__label__corrective ui bug fix host uuid wrong dedicate domain
+__label__nonfunctional performance improvement restrict class check
+__label__corrective fix npe dataservices extension due bad parse referential constraints
+__label__nonfunctional version winstone fix concurrent session access plus performance improvement file submission handle
+__label__nonfunctional fix ugly bug object database improve performance class inspection
+__label__corrective cloudstack 7894 fix script test vm passwdenabled py test case fail simulator testcases try ssh vms
+__label__corrective alluxio 2116 gracefully get storage type fix checkstyle error
+__label__corrective jenkins 22811 fix compilation error
+__label__corrective fix hudson 8106 fix abstract error
+__label__corrective cloudstack 3 0 ui autoscale regular user fix bug createautoscalevmprofile api fail autoscaleuserid undefined
+__label__corrective typescript angular2 fix syntax error 4383
+__label__corrective remove generics process interface must take exchange parameter avoid classcastexception when send old exchange endpoint fooexchange git svn id https svn apache org repos asf activemq camel trunk 534145 13f79535 47bb 0310 9956 ffa450edef68
+__label__perfective camel 3447 camel use media size name java printer api thank torsten patch git svn id https svn apache org repos asf camel trunk 1051120 13f79535 47bb 0310 9956 ffa450edef68
+__label__features add another example show feature little
+__label__features camel 2919 debugger api git svn id https svn apache org repos asf camel trunk 961615 13f79535 47bb 0310 9956 ffa450edef68
+__label__nonfunctional hbase 11362 minor improvements loadtesttool performanceevaluation vandana ayyalasomayajula
+__label__unknown duplicate logic call method 923
+__label__corrective catch exceptions when change engine row format fail when table full skip critical fix
+__label__nonfunctional improve performance creation preview h2 db
+__label__nonfunctional make public enable reuse add convenience constructor crop crop without rect object also optimize things
+__label__features deprecate default map 25652 indices cannot type anymore feature buy anything anymore close 25500
+__label__unknown merge duplicate code set window icons lwjgl3application lwjgl3window
+__label__corrective framewrapper restore frame state iconified idea 87792
+__label__nonfunctional hbase 6295 possible performance improvement client batch operations presplit send background addendum
+__label__corrective suggest convert groovy style property access inside closure
+__label__corrective cloudstack 3 0 new ui template page fix bug delete action display system build templates
+__label__corrective bean properties type enum array collection populate comma separate string spr 6547
+__label__features hbase 12176 walcellcodec encoders support non keyvalue cells anoop sam john
+__label__perfective clean spring expression test warn clean compiler warn test spring expression commit add type parameters type mostly list map clean test even specifically raw type
+__label__corrective bug 5876 fix error report agent setup cause nest exception
+__label__features improvements camel 133 client create exchange endpoint specify exchangepattern want use exchange via endpoint createexchange pattern git svn id https svn apache org repos asf activemq camel trunk 572625 13f79535 47bb 0310 9956 ffa450edef68
+__label__unknown unify encapsulate deployment flow methods params
+__label__perfective mode 266 sequence java class file extract class structure annotations
+__label__features backporting aware module feature cause openmrs crash trunk 2849 1 9 x branch
+__label__corrective cloudstack 3229 fix syntax error s3xen
+__label__corrective cloudstack 5481 fix ui bug when regular user add isolate network
+__label__nonfunctional name conventions work events improvements integration test work
+__label__corrective fix although api call fail event tab show successful
+__label__unknown hbase 18660 remove duplicate code checkandput method htable yun zhao
+__label__features hbase 8921 thrift2 add genericoptionsparser thrift 2 server git svn id https svn apache org repos asf hbase trunk 1501982 13f79535 47bb 0310 9956 ffa450edef68
+__label__features secoauth 68 use mvc feature sparklr2
+__label__corrective use latest htmlunit fix test failure cause yui 2 9
+__label__features enable action item text display pre android 3 0 devices call requestwindowfeature argument window feature action bar watson text
+__label__perfective io serious refactoring streamline design cursors randomaccesses
+__label__nonfunctional jbrules 1915 improve process persistence usability
+__label__perfective minor fix warn
+__label__corrective fix issue empty link
+__label__corrective bug 11664 fix regression bug listvms introduce performance change
+__label__nonfunctional improve performance when join params close 380
+__label__nonfunctional improve order better support performance issue
+__label__nonfunctional improve performance operation mvrb tree store temporary search value thread local
+__label__features yarn 2059 add admin acls support timeline server contribute zhijie shen svn merge ignore ancestry c 1597207 trunk git svn id https svn apache org repos asf hadoop common branch branch 2 1597208 13f79535 47bb 0310 9956 ffa450edef68
+__label__perfective move last 6 remain unit test
+__label__corrective use default client options fix bug blockinstreams
+__label__unknown bug 7018 fix issue where dialog box correctly clean when navigate ui essentially duplicate
+__label__perfective polish unit test jmsmessagebindtest git svn id https svn apache org repos asf camel trunk 1023715 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective gdx freetype separate shadowoffset shadowoffsetx shadowoffsety allow negative value fix compilation error
+__label__nonfunctional remove load check recordstore reset improve test
+__label__features extractors feature code coverage supplement
+__label__perfective yarn 5328 plan resourceallocation data structure enhancements require support recur reservations reservationsystem
+__label__perfective observeon subscribeon concurrency unit test rudimentary may determinism problem due thread sleep
+__label__corrective bug 10222 fix issue associate ip introduce one nic problem associate ip automatically create nic sufficient information properly create use what know sure name pattern however change name pattern break fix pass information ipaddressto object
+__label__corrective bug 7960 npe fix previous fix add better log exception handle
+__label__corrective fix content negotiation issue servlet extension
+__label__features new method return string representation typedescriptor
+__label__corrective cloudstack 8516 fix syntax errors pep8 issue testpath storage migration py
+__label__features hbase 1183 new mr split algorithm new feature need way split key range n chunk
+__label__corrective cloudstack 2865 fix error preparestop
+__label__corrective set default gateway always eth2 fix bug system vm pingable public network
+__label__features change syntax create class command want keyword cluster also accept cluster name
+__label__unknown fix extractduplicates add resource transformers maven shade plugin
+__label__corrective cloudstack 2120 api mix zone management fix bug listtemplates listisos api take zonetype properly
+__label__unknown remove duplicate code citrixresourcebase getpatchfiles
+__label__nonfunctional drool 1560 simplify improve performances chainedproperties discovery 1276
+__label__perfective 143 package structure refactoring
+__label__corrective cs 15803 cloudstack 3 0 ui vpc fix bug root admin fail create vm tier belong regular user domain admin
+__label__corrective camel 4176 fix fallback use http4 http4s proxy scheme when configure property camelcontext properties git svn id https svn apache org repos asf camel trunk 1144310 13f79535 47bb 0310 9956 ffa450edef68
+__label__features camel 2206 add new sampler eip thank stephen gargan contribution git svn id https svn apache org repos asf camel trunk 883614 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective add test case fix one bug
+__label__corrective wi 31168 unable save settings upgrade 2016 1 cherry pick commit 5b98073
+__label__corrective xml rename dialog accept character ideadev 35547
+__label__corrective cloudstack 8040 ui register template dialog register iso dialog fix bug hide field fail generate cloudstack prefilter createtemplate call thus cloudstack prefilter createtemplate unable change hide field css display property none inline block admin users
+__label__corrective bug 1443 even add host fail return success api status 14443 resolve fix review sheng
+__label__features store add basic feature bitmap
+__label__nonfunctional improve yet performance huge datasets when mmap pool full channel technique use dramatic slowness read write when mmap pool exhaust fix
+__label__features plugins tooltip plugins newer version idea 75998
+__label__features add takelast observable
+__label__nonfunctional integration test work improvements
+__label__corrective fix bug database drop maven test
+__label__nonfunctional several performance improvements
+__label__nonfunctional broadleafcommerce qa 2412 enhance segment inclusion performance
+__label__unknown remove wasteful duplicate method call findbugs
+__label__nonfunctional progress issue trunk 2874 improve error message when try install test mode release test support module instal
+__label__perfective recovery settings change settings still support old settings allow dynamic settings close 1303
+__label__corrective ignore css errors yui fix
+__label__corrective cs 15452 fix wrong repsonse id s2s vpn
+__label__nonfunctional issue 332 improve performance columnsliceimpl instantiation hcolumnimpl getname getvalue
+__label__perfective protect soe incorrect action group structure ruby 6519 cleanup
+__label__nonfunctional improve performance script compile
+__label__features make index termslookup mandatory 25753 change remove leniency null index fetch term 6 0 onwards feature deprecate 5 x series 6 0 nod require index set close 25750
+__label__unknown remove call duplicate within stringserializer match behaviour give rest serializers
+__label__nonfunctional improve write performance use nio pre create tmp directories etc
+__label__features add flick feature scrollpane
+__label__nonfunctional core 2355 improve updatesql performance
+__label__corrective new ui global set fix bug add button page go away when visit page
+__label__corrective cloudstack 2334 ui regions gslb remove lb rule gslb fix bug pass wrong parameter api call
+__label__nonfunctional bpmspl 165 improve rest query infrastructure capabilities delete query maintenance
+__label__unknown dead 274 fix duplicate error code
+__label__nonfunctional dataoutput2 small performance improvement
+__label__nonfunctional core 2321 improve robustness readability
+__label__nonfunctional hadoop 10691 improve readability hadoop fs help contribute lei xu
+__label__perfective remove window two synchronize block
+__label__nonfunctional additional test improvements rest test
+__label__features hadoop 7657 add support lz4 compression contribute binglin chang git svn id https svn apache org repos asf hadoop common branch branch 0 23 1220312 13f79535 47bb 0310 9956 ffa450edef68
+__label__perfective temporary refactorization project structure due keep compatibility spring ftl strut jsp
+__label__nonfunctional mapreduce 3944 change history job webservice return partial job info significant performance improvement contribute robert joseph evans
+__label__features tfj 26 add debug feature
+__label__nonfunctional enhance genericresultpoint move logic qrcode package reuse datamatrix soon
+__label__features add feature save complexobs data save encounter
+__label__features add request controller subsystem web feature pack standalone config
+__label__perfective hbase 1404 minor edit regionserver log message git svn id https svn apache org repos asf hadoop hbase trunk 773627 13f79535 47bb 0310 9956 ffa450edef68
+__label__nonfunctional merge pull request 59 square jwilson improve reuse
+__label__perfective make window maker type
+__label__corrective fix manners git svn id https svn jboss org repos labs trunk labs jbossrules 2061 c60d74c8 e8f6 0310 9e8f d4a2fc68ab70
+__label__corrective ios bug fix server socket
+__label__perfective simplify cache usage waterfall refactored structure nomenclature
+__label__perfective usages asktscope remove
+__label__corrective fix test box git svn id https svn apache org repos asf camel trunk 904741 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective system page physical network fix bug physical network tag field update add guest network dialog still use obsolete physical network data
+__label__perfective add operator factory update tree structure refactor
+__label__features add filter auto refresh feature
+__label__features add apache taglibs dependency feature pack
+__label__features remove slow mostly unuseful feature
+__label__perfective update validators conform refactored design fail test suite
+__label__corrective camel 1078 fix potential npe git svn id https svn apache org repos asf camel trunk 788149 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective cloudstack 6965 fix nullpointerexception introduce fix cloudstack
+__label__nonfunctional issue 1602 small sbtree performance improvement
+__label__unknown bug 9259 remove extra vpn statements duplicate change chiradeep change
+__label__perfective big refactoring uris module make design conventions uniform less hacky
+__label__unknown remove custom code duplicate functionality guava fallbacks
+__label__nonfunctional add benchmarks module quick experiment improve performance
+__label__nonfunctional sonar 7300 improve readability routesfilter
+__label__nonfunctional performance improvements chatview message
+__label__features patch 3122104 feature request 2163626 scan database find unlinked file patch http sourceforge net tracker func detail aid 3122104 group id 92314 atid 600308 feature request https sourceforge net tracker func detail aid 2163626 group id 92314 atid 600309
+__label__features 1570570 new feature deselect duplicate import
+__label__perfective html structure view improvements web 353
+__label__perfective design improvements mapttlstaturationtest
+__label__corrective fix incremental compilation when update kiemodule without change release id snaphots
+__label__perfective field protect
+__label__nonfunctional hbase 1655 usability improvements htablepool
+__label__perfective optimize boolean query when possible
+__label__corrective cloudstack 4223 ui infrastructure zone usc blades tab fix bug blades fail list listview
+__label__perfective remove system genericfile git svn id https svn apache org repos asf camel trunk 752424 13f79535 47bb 0310 9956 ffa450edef68
+__label__features add proper jacksonfeature resourceconfig restapiservice
+__label__perfective jbrules 2817 make knowledgeagent test robust faster kagent event listener test enable modify adopt new kagent test architecture
+__label__corrective when update file via file connector deletion issue could occur windows due jvm integration issue os workaround reduce invoke garbage collection report kevin conaway
+__label__nonfunctional cloudstack 9428 fix cloudstack 9211 improve performance
+__label__features last change 2 4 beta update action enable disable list remove db feature toolbar
+__label__nonfunctional hbase 16414 improve performance rpc encryption apache common
+__label__corrective new ui host page fix bug update os preference 1st time work
+__label__corrective fix hudson 4765 fix break link fail test matrixbuild page
+__label__features jclouds 1162 dockercomputeserviceadapter remove container stop non zero exit code quickly start commit also add feature which print container log jclouds compute log node destroy trace log level enable
+__label__corrective rework rename call reduce rpc call fix bug rename integration test
+__label__perfective minor remove warn
+__label__nonfunctional enhance vr performance selectively execute task instead brute force
+__label__corrective resurrect original fix hudson 5756 still worry bugparade 6933067 relate sort hotspot optimization
+__label__perfective check vfs sanity action
+__label__unknown remove duplicate version info common pom file findbugs
+__label__nonfunctional hive 4838 refactor mapjoin hashmap code improve testability readability brock noland via ashutosh chauhan
+__label__nonfunctional dbsqlsession improve debug log readability
+__label__corrective fix jenkins 6795 maven agent need fix hardcoded socket connection localhost perhaps fallback mechanism when fail connect loopback interface solve pesky issue
+__label__corrective unit test catch exceptions prevent junit fail test
+__label__nonfunctional improve performance persistit adapter titan
+__label__corrective alluxio 2197 fix checkstyle errors
+__label__features apply line filter feature path
+__label__perfective add type structure converters update implementation component
+__label__nonfunctional improve performance iteration specially graphdb side
+__label__corrective 1 x fix completable swallow onerrornotimplementedexception 3904
+__label__features 1 adjust singlesegmentloader allow store segment multiple different mount point specification language really janky right remain stealth feature time
+__label__perfective update scripturian 1 0rc3
+__label__corrective fix parse file base template load support three different settings templates settings index number shards 12 settings index number shards 12 settings number shards 12 latter one support fix 4235 commit fix issue use randomize test test three case when run integration test close 4411
+__label__features add feature allow user control order field save database
+__label__nonfunctional hhh 7640 improve single node infinispan 2lc performance
+__label__nonfunctional merge pull request 539 broadleafcommerce qa 1968 prod opt performance improvements
+__label__corrective alluxio 1856 fix fail unit test
+__label__features add new preferences tab entry editor preferences add preference settings autocompletion feature
+__label__corrective cloudstack 3994 fix wrong error notification generate when primary storage add wrong path
+__label__features store move data path per shard commit move away use stripe raid 0 simumlation across multiple data paths towards use single path per shard multiple data paths still support shards data strip across multiple paths disk instance prevent loose shards single disk corrupt indices use feature already automatically upgrade single datapath base simple diskspace base heuristic general must enough diskspace move single shard time otherwise upgrade fail close 9498
+__label__perfective format inject code refactored 3
+__label__features default auto update time stamp false refs feature 799
+__label__nonfunctional datamongo 1108 performance improvements basicmongopersistententity
+__label__unknown cloudstack 3882 remove duplicate entres dataserver etc host
+__label__unknown rename classe smell code class must start lowercase
+__label__perfective domain structure enhancement
+__label__unknown secondary storage fix bug newly create secondary storage duplicate copy
+__label__nonfunctional hive 13027 configuration change improve log performance prasanth jayachandran review sergey shelukhin
+__label__features add horizontal text alignment feature textfields
+__label__perfective design improvements
+__label__perfective move binary search operations textutil optimize structure handle markupeventprocessor
+__label__corrective cloudstack 7610 cloudstack 7611 cloudstack 7612 fix follow bug alertssyslogappender 1 add sync alert 2 change unrecognised alert send unknown instead null 3 add unit test cover scenarios
+__label__perfective add hill climb local search optimization algorithm refactored structure test package match core package
+__label__perfective update package structure core part make ide part adopt core refactoring previous commit
+__label__nonfunctional ispn 97 improve configuration process maintenance
+__label__corrective sleep fix amount time use continue repo unavailable check dns resolution work properly when failure occur
+__label__corrective fix test use use longer exist consequenceexception getrule method
+__label__nonfunctional ha improve performance rid bag compare
+__label__corrective cloudstack 3868 fix count param listusagerecords api return actual number record match search criteria use return wrong value number record per page
+__label__perfective hdfs 7144 fix findbugs warn ramdiskreplicatracker contribute tsz wo nicholas sze conflict hadoop hdfs project hadoop hdfs change hdfs 6581 txt
+__label__unknown tachyon 590 address uronce cc review comment include remove duplicate add test case
+__label__nonfunctional ispn 1276 improve batch transactional performance profile
+__label__corrective quickview fix action error handle remove load state
+__label__unknown dead 3647 remove duplicate row
+__label__corrective cloudstack 537 cloudstack ui advance sg enable zone network menu guest network section fix js error advsgdisabledzones undefined
+__label__corrective servletcontextadapter pass serverservlet restlet application give constructor via setcontext method report tammy croteau
+__label__features add gui implimentation super basic login screen
+__label__corrective cloudstack 3 0 ui listview fix bug table row remove listview remove action listview complete
+__label__nonfunctional jbrules 1915 improve process persistence usability
+__label__perfective kpme 2347 spring modularity structure probably still cleanup
+__label__corrective alluxio 1856 fix fail unit test
+__label__nonfunctional hadoop 6502 improve performance configuration getclassbyname when class find cache negative result contribute sharad agarwal todd lipcon
+__label__nonfunctional improve cast enum performance
+__label__corrective hbase 11671 testendtoendsplittransaction fail master mikhail antonov
+__label__nonfunctional minor test improvements
+__label__features move ec2 entries new feature
+__label__perfective refactoring typeinfofactory createtypeinfo without type notypeinfo getnotnulltype gettypenotnull nullability refine style fix
+__label__perfective refactored generation static initializer
+__label__corrective cloudstack 7897 fix script test reset ssh keypair py test case fail simulator testcases try ssh vms
+__label__corrective fix hudson 5827 fix classcastexception live svn plugin 1 13 which bundle 1 350
+__label__perfective minor change property structure additions utils refactoring code compositeutil enhancements wire phase logic progress
+__label__nonfunctional improve maintenance screen update text remove spinner
+__label__features hive 13313 tablesample row feature break vectorization matt mccline sergey shelukhin
+__label__corrective camel 751 fix spring configuration url error git svn id https svn apache org repos asf activemq camel trunk 679379 13f79535 47bb 0310 9956 ffa450edef68
+__label__nonfunctional merge pull request 416 broadleafcommerce qa 1722 improve change order performance
+__label__perfective test add test parse name field rangequeryparser
+__label__corrective hbase 7703 eventually online snapshots fail due timeout regionserver online snapshot attempt would fail due timeout rowlock could obtain prior cancellation occur which likely grab lock without clean properly fix use nice cancel instead interrupt cancel failures git svn id https svn apache org repos asf hbase branch hbase 7290 1445866 13f79535 47bb 0310 9956 ffa450edef68
+__label__features add back pressure item new feature
+__label__nonfunctional improve test collection class
+__label__corrective idea 139609 gradle new module wizard select gradle projec dialog selection confirm double click press enter
+__label__corrective accessdeniedexception fix
+__label__unknown dead 1631 remove duplicate doc declarations management
+__label__perfective opaque data structure methodinvocation introduce make class
+__label__nonfunctional issue 1404 wal test performance improvement
+__label__corrective selectbox maxlistcount one bug quick fix
+__label__corrective publican errors release note fix
+__label__nonfunctional improve connectionspool implementation performance patch provide laurent qu rel
+__label__corrective fix test use release version git svn id https svn apache org repos asf camel trunk 991460 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective new ui add host button display primary storage page fix bug podobj find appear when click add host button primary storage page without visit pod page first
+__label__features jsr 223 base standardscriptfactory include lang std support commit also complete 4 2 schema variants spring context issue spr 5215
+__label__features hiero upgrade version 5 support freetype number new feature
+__label__nonfunctional cloudstack 7575 improve performance cleanstring method stringutils
+__label__features implement subscription forward feature
+__label__corrective fix cluster id selection distribute mode
+__label__corrective refactoring old code fix regression bug ui issue list domains also fix list domain specific zone vm creation domain admin list everything upto root domain list children base path search
+__label__unknown bug 10824 clear older entries resolv conf dnsmasq resolv conf add duplicate entries end file
+__label__perfective rework poll folder tree structure change restrict folder context menu user root folder code quality improvements
+__label__corrective crucial bug fix remote local copy
+__label__corrective fix issue report steven tx congruency nest record bug report rollback
+__label__features rewrite menu handle inflation use native menu instance via wrapper when post 3 0 allow us remain forward compatibile new feature introduce menu xml schema still support whatever want older platforms via custom inflater
+__label__nonfunctional improve performance cox ph use efron approximation handle tie
+__label__nonfunctional increase transfer penalty where improve performance
+__label__corrective bug 7014 fix js error when attempt view non select vm instance
+__label__corrective cloudstack 3 0 ui xss global set page fix bug notification get hack save value script tag xss attack
+__label__perfective mr 187 add unit test git svn id https svn apache org repos asf camel trunk 824320 13f79535 47bb 0310 9956 ffa450edef68
+__label__features hbase 1766 add advance feature hfile main able analyze storefile problems
+__label__nonfunctional improve get statdata performance
+__label__features bump 3 0 alpha 2 reflect new history feature
+__label__perfective minor project name project structure refactoring
+__label__nonfunctional ticket 2873 improve word test option installation wizard
+__label__nonfunctional http improve performance use larger buffer
+__label__nonfunctional bug 9192 improvements listvm performance cache datacenter serviceoffering network template iso information api level
+__label__nonfunctional progress issue trunk 2874 improve error message when try install test mode release test support module instal
+__label__nonfunctional hive 7219 improve performance serialization utils orc prasanth j review gunther hagleitner gopal v
+__label__unknown sonar 7337 sqale index new technical debt code smell
+__label__corrective fix hudson 3799 fix performance problem filepath copyrecursiveto network
+__label__perfective facets deprecation users encourage move new aggregation framework introduce elasticsearch 1 0 close 6485
+__label__nonfunctional weld 1149 specialization bootstrap performance improvement
+__label__corrective npe payload cause ssvm agent fix also make sure template volume sync robust exceptions cause ssvm agent disconnect issue
+__label__nonfunctional introduce surprise performance improvement defaultrobomodule
+__label__corrective fix bug configuration tab wrongly hide
+__label__corrective jenkins 21486 fix ant daniel separate fail plugin
+__label__nonfunctional hdfs 8865 improve quota initialization performance contribute kihwal lee
+__label__features camel 5906 add new camel servletlistener component bootstrapping camel web app without use spring etc work progress git svn id https svn apache org repos asf camel trunk 1428278 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective new ui fix bug when execute action vm result red even though successful red when action successful
+__label__features jbrules 935 update drldumper handle new language feature
+__label__nonfunctional improve testability coverage uts
+__label__nonfunctional minor improve readability speed reduce scope variable hot point
+__label__features tfj 335s upport feature specific rate limit information
+__label__nonfunctional refactor performance improvement
+__label__corrective alluxio 2743 fix fail integeration test
+__label__features add transform tag feature
+__label__corrective smallfix fix fail test
+__label__nonfunctional slightly improve readability plus eclipse autoformatter
+__label__perfective xlcloud 615 design crud api applications merge
+__label__corrective better handle fix identify problematic part code
+__label__unknown fix hudson 4831 prevent duplicate cause entries build
+__label__features add cucumber feature back
+__label__nonfunctional improve performance management collections
+__label__unknown avoid get jelly jexl duplicate
+__label__corrective revert cloudstack 7762 automation fix test failure test 02 revert vm snapshots smoke test vm snapshots py
+__label__nonfunctional improve performance memory key column value store factor 3 5
+__label__nonfunctional hive 7691 improve maintainability testconfiguration properties review szehon via brock
+__label__corrective try fix occasional test failuers java client
+__label__corrective bug 10416 fix bug agentloadbalancerplanner
+__label__corrective misc fix error handle
+__label__corrective cloudstack 7862 fix script maint test high availability py test case fail simulator testcases try ssh vms
+__label__corrective tachyon 1592 fix compile error
+__label__corrective cloudstack 3 0 ui domain page fix js error appear new domain create context detailview data view args section undefined
+__label__features add context hierarchy test spring mvc test issue spr 5613
+__label__perfective abstract lazy test gianostics
+__label__corrective cloudstack 7826 ui dialog widget dependent dropdown field dependson property specify fix bug default opton dependent dropdown field trigger change event handler another option dependent dropdown field select
+__label__corrective camel 1091 fix compilation issue java 1 5 git svn id https svn apache org repos asf activemq camel trunk 718279 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective fix race when flush message use atomicboolean lock mean possible message queue never flush send broker 1 t1 message receive isconnected false message queue 2 t2 connect receive broker isconnected set true queue drain queue message forward 3 t1 message add queue fix check isconnected false step 1 queue message step 3 need perform unit flush queue message interleave achieve synchronize monitor perform step 1 3 synchronize monitor perform step 2 monitor hold message actually forward broker alternative would drain queue local variable release monitor forward message main advantage alternative monitor hold less time also reduce theoretical risk deadlock hold monitor make alien call downside alternative may lead message forward order reason alternative approach reject
+__label__nonfunctional improve readability documentation
+__label__corrective fix indices recovery concurrent small file stream dynamically settable fix 4094
+__label__unknown remove duplicate hexadecimal conversion code
+__label__unknown refactored hidesoftkeyboard
+__label__features depend stapler 1 26 feature take advantage java5
+__label__nonfunctional introduce graph class improve oo ness model class also improve testability bite
+__label__corrective yarn 3094 reset timer liven monitor rm recovery contribute jun gong cherry pick commit 0af6a99a3fcfa4b47d3bcba5e5cc5fe7b312a152
+__label__nonfunctional core 2371 improve performance
+__label__nonfunctional hdfs 5511 improve cachemanipulator interface allow better unit test cmccabe
+__label__features add pay square feature applications
+__label__corrective fix jenkins 10081 fix double escape problem
+__label__perfective refactored overall project structure separate platform
+__label__corrective fix error message split pane fix 3356
+__label__features remove hostgroup feature do stream explanation http www lennartkoopmann net post 11612984083 hostgroups graylog2 die also improve error handle index checker startup
+__label__nonfunctional improve tag test
+__label__nonfunctional big refactoring improve performance n level
+__label__unknown ce 110 remove duplicate unused functionality
+__label__perfective port servent structure negative convert unsigned int
+__label__perfective add first cut layout build process new website improve structure use jekyll
+__label__corrective fix issue miss save configuration when local data multiple file report ed barbeau http group google com group orient database msg 0299391834b65b73
+__label__unknown move runscriptdata src main non test dependencies delete orpah duplicate file guestadditionsinstallation java wrong place duplicate installguestadditions java well duplicate script installguestadditions sh duplicate installmoduleassistantifneeded sh
+__label__unknown gdx box2d remove duplicate fixture setuserdata
+__label__perfective cspace 323 change directory structure authentication service refactored coolectionspaceclient accommodate need authenticationservicetest add testng test authentication authentication test enable dcspace server secure true property use
+__label__perfective product structure enhancements
+__label__features remove hostgroup feature explanation http www lennartkoopmann net post 11612984083 hostgroups graylog2 die
+__label__features improve look trace id trace id use trace export filename upcoming feature look better pure hex number instead current decimal number hex number
+__label__perfective move test output one level readclassdatatest compilejavaagainstkotlintest
+__label__features jbrules 340 core implementation node add reteoobuilder add unit test git svn id https svn jboss org repos labs labs jbossrules trunk 5713 c60d74c8 e8f6 0310 9e8f d4a2fc68ab70
+__label__corrective cloudstack 7143 better fix kernel upgrade disk space problems
+__label__corrective yarn 280 rm reject app submission invalid tokens daryn sharp via tgraves git svn id https svn apache org repos asf hadoop common branch branch 2 1425085 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective jbrules 2375 fix deadlock queue action git svn id https svn jboss org repos labs labs jbossrules trunk 33500 c60d74c8 e8f6 0310 9e8f d4a2fc68ab70
+__label__corrective bug 9495 fix domr log error boot
+__label__perfective camel 1933 overhaul jmx add manage send prepare camel route context runtime configuration manage git svn id https svn apache org repos asf camel trunk 808777 13f79535 47bb 0310 9956 ffa450edef68
+__label__perfective smart completion code improvements refactorings code review
+__label__corrective cloudstack 5042 fix npe error broadcasturi null share network upgrade 2 2 14 cherry pick commit 09e7ab9750df27d96159bbcf3f41bafc33ac6fbe
+__label__nonfunctional intorducing pluggable element wrappers lead performance improvement libraries use blueprint instead wrap elements rawelement neo4j2element libraryspecificelement rawelement libraryspecificelement directly improve memory usage part commit additional cast operations remove hopefully shave milliseconds note code pass test suite still need minor cleanup
+__label__corrective fail fix string format error cloudstackconnection py
+__label__nonfunctional core 2985 mssql snapshot performance improvements
+__label__features add tag line attribute feature make possible run single scenario
+__label__unknown detail view slice clone field array prevent duplicate field
+__label__corrective cloudstack 5457 dbha feature break due runtimeexception throw underlie layer fix catch clustermanagerimpl
+__label__corrective remove emulate ioexception use gwt emulation fix 4007
+__label__perfective project structure refactoring
+__label__nonfunctional improve create link performance when destination field rid
+__label__unknown remove duplicate apiclienttest
+__label__unknown hbase 1105 remove duplicate code hcm add javadoc regionstate etc
+__label__nonfunctional avro 1260 ruby improve read performance contribute martin kleppmann
+__label__corrective jbrules 447 small fix rule attribute git svn id https svn jboss org repos labs labs jbossrules trunk 6003 c60d74c8 e8f6 0310 9e8f d4a2fc68ab70
+__label__corrective camel 6048 camel xmljson fix issue attrbiutes name type serialize thank arne stroksen patch git svn id https svn apache org repos asf camel trunk 1443634 13f79535 47bb 0310 9956 ffa450edef68
+__label__nonfunctional improve maintainability level backup profile test remove hardcoded number expect rule
+__label__corrective new ui fix bug menu leave navigation disappear refresh page
+__label__perfective update project structure inline maven standards
+__label__corrective test repair
+__label__nonfunctional name conventions work events improvements integration test work
+__label__features jedis add sharding feature
+__label__corrective smallfix fix fail setttl test
+__label__unknown dead 7728 remove duplicate import
+__label__nonfunctional improve log improve performance
+__label__perfective base class surrounders statements
+__label__corrective fix hudson 2804 must fail handle non ascii character correctly when move one file another fix 1 273
+__label__corrective detail view fix case where view link reference wrong detail object
+__label__corrective windows path problem fix
+__label__corrective fix issue 110 http rest invocation command parameter pass select statement
+__label__corrective cloudstack 3 0 new ui instance wizard select network step fix bug network container empty when try deploy 2nd vm
+__label__nonfunctional improve yet performance huge datasets when mmap pool full channel technique use dramatic slowness read write when mmap pool exhaust fix
+__label__unknown wfly 4170 remove duplicate rbac test
+__label__nonfunctional jbrules 1915 improve process persistence usability
+__label__nonfunctional sonar 4368 highly improve performance project deletion operation
+__label__nonfunctional hazelcast client performance enhancements
+__label__perfective hbase 3746 clean compressiontest directly reference distributedfilesystem git svn id https svn apache org repos asf hbase trunk 1089684 13f79535 47bb 0310 9956 ffa450edef68
+__label__features initial implementation kt 6427 completion use java name suggestion complete function parameters filter synthetic kotlin class completion
+__label__corrective integrate remoting jar fix miss title png problem
+__label__nonfunctional avro 752 java enhance performance test suite
+__label__nonfunctional hive 756 performance improvement rcfile columnarserde hive ning zhang via zshao
+__label__corrective bug 13515 system page network page fix bug zoneid get pass listphysicalnetworks api
+__label__unknown remove duplicate class
+__label__corrective fix issue set password ouser
+__label__corrective clean code fix sync bug
+__label__perfective cleanup
+__label__nonfunctional fix ugly bug object database improve performance class inspection
+__label__nonfunctional performance improvement save colums per table instead query column
+__label__features support force compilation set file modules
+__label__features increase visibility deprecation logger deprecation logger important way make visible feature elasticsearch deprecate yet default log make log message deprecation logger invisible want log message visible default log deprecation logger enable log message commit change log level deprecation log message warn configure deprecation logger log message visible box relate 20254
+__label__unknown hbase 16270 handle duplicate clear snapshot region replicas robert yokota
+__label__features add sceanrios transform feature
+__label__perfective better message format
+__label__corrective idea 70843 fix hector slider gtk l f
+__label__nonfunctional add threadlocal cache proxies improve performance
+__label__corrective cloudstack 9565 fix intermittent failure test oobm zchange password
+__label__features change order word action item button feature demo match tab section
+__label__corrective cloudstack add network dialog fix bug miss isshared parameter isdefault parameter createnetwork api call
+__label__nonfunctional optimize memory management performance graph render studio
+__label__corrective svn merge c 1379565 fix yarn 66 aggregate log permissions set properly tgraves via bobby git svn id https svn apache org repos asf hadoop common branch branch 2 1379567 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective jbpm 3814 bz 1002724 bugfixes regard concurrency cherry pick commit 2bf24d6908c1976fca356b2e96279355e863db5a change environmentimpl use concurrent hashmap significant persistence change jpapersistencecontextmanager class revert lock change singlesessioncommandservice since fix jbpm 3814 possible level sscs form lock app scoped entity manager also delete unsused interfaces applicationscopedpersistencecontext transactionablepersistentcontext
+__label__unknown solve issue 100 remove unused duplicate runtimesupport
+__label__perfective yarn 632 change containermanager api throw ioexception yarnremoteexception contribute xuan gong svn merge ignore ancestry c 1479740 trunk git svn id https svn apache org repos asf hadoop common branch branch 2 1479741 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective change signature fail unresolved psimethod kt 9535 fix
+__label__features add overload varargs method inspection
+__label__nonfunctional improve performance traverse sql graph function
+__label__perfective project structure partially refactored complete
+__label__corrective fix
+__label__perfective resource class refactoring introduce reusable base class sub resources also add new routesresource simplify root resource git svn id https svn apache org repos asf camel trunk 745556 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective new ui fix bug iconcontainer find
+__label__perfective hadoop 6367 remove access token implementation common contribute kan zhang git svn id https svn apache org repos asf hadoop common trunk 881509 13f79535 47bb 0310 9956 ffa450edef68
+__label__perfective remove unused method polish
+__label__features stability monitor inheritable thus use listener iheritance feature always remove listener when stability monitor register
+__label__corrective use lateste fix stdout capture problem
+__label__perfective newactionactivity design refactoring
+__label__corrective bug 14476 cloudstack 3 0 ui ip address page vpn tab fix bug newly add vpn users show ui when owner ip address different current login
+__label__nonfunctional hll performance improvement remove useless call math floor
+__label__corrective cloudstack 6900 fix volume migration fail volume download
+__label__perfective service structure refactoring
+__label__features add single fromcallable
+__label__corrective bug 7106 fix account update bug
+__label__unknown client remove duplicate baremetal dependency regression 1f15c1e9
+__label__corrective stackoverflow fix
+__label__nonfunctional slight performance improvement api rule tag
+__label__nonfunctional bug 9192 improvements listvm performance cache datacenter serviceoffering network template iso information api level
+__label__features remove back compat path option path option allow index store field b c c when set name feature remove 2 0 favor copy remove back compat 3 x
+__label__nonfunctional core 2528 oracle improve unique constraint snapshot query performance
+__label__perfective app structure improve feature 59 do together martin
+__label__nonfunctional improve alarm callback test 3196
+__label__perfective clean itest bite mock expect data structure rather extract via pipeline
+__label__nonfunctional sonar 5528 improve performance persistit serialization highlight
+__label__perfective implement open hash address index leaf page avoid large move
+__label__perfective yarn 2158 improve assertion message testrmwebservicesappsmodification contribute varun vasudev svn merge ignore ancestry c 1608667 trunk git svn id https svn apache org repos asf hadoop common branch branch 2 1608668 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective fix issue 799 add break possibly infinite loop compositeexception attachcallingthreadstack
+__label__nonfunctional sonar 2084 improve usability
+__label__nonfunctional cleanup improve readability cloneandregistermachinefromimachineifnotalreadyexists
+__label__features hbase 6400 add getmasteradmin getmastermonitor hconnection enis git svn id https svn apache org repos asf hbase trunk 1363009 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective bug 10406 fix concurrency problem happen agent transfer monitor task
+__label__corrective nest optional block work fix bug
+__label__nonfunctional merge pull request 416 jmxtrans improve test cloudwatch writer
+__label__corrective cloudstack 8161 fix wrong reference
+__label__perfective remove geronimombean dependencies cluster module comment since design need refactoring work gbeans
+__label__corrective fix issue share add also first test case sharding
+__label__perfective project structure cleanup
+__label__corrective bug 10737 fix java nio bufferoverflowexception decompression
+__label__features add parse rdf xml
+__label__perfective new seed screen design improve
+__label__perfective incorporate review suggestions change finally0 finallydo remove unnecessary subscription wrap handle exceptions oncompleted onerror
+__label__nonfunctional note possible performance improvement via system property
+__label__corrective yarn 2111 fairscheduler attemptscheduling count containers assign 0 memory non zero core sandy ryza git svn id https svn apache org repos asf hadoop common branch branch 2 1605115 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective new ui correspond ui change bug 6955 fix
+__label__corrective hbase 1773 fix break test setwritebuffer throw ioe git svn id https svn apache org repos asf hadoop hbase trunk 805236 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective idea 81004 deadlock softwrapappliancemanager break potentially endless loop report error
+__label__corrective new ui fix bug click submenu collapse parent menu
+__label__corrective bug 11070 cloudstack delete account fix bug api error show account delete listaccounts id n
+__label__perfective optimizations internal connectors
+__label__perfective improve general code structure especially codegencontextmap code cleanup around plugin
+__label__corrective hbase 1816 master rewrite remove safe mode regionserver side need remove wait top flush compactions thread use wait safe mode stick git svn id https svn apache org repos asf hadoop hbase trunk 830844 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective cloudstack cluster page fix bug manage cluster action show wrong message
+__label__nonfunctional sonar 3086 improve usability review form
+__label__nonfunctional broadleafcommerce qa 2946 refactor reduce duplication enhance readability
+__label__corrective clean code fix bug inputstream
+__label__features spr 8454 introduce registration style object rename several spring mvc configurer helpers registry add test
+__label__corrective merge c 1235858 trunk branch 0 23 fix mapreduce 3683 fix maxcapacity queue product parent maxcapacities git svn id https svn apache org repos asf hadoop common branch branch 0 23 1235860 13f79535 47bb 0310 9956 ffa450edef68
+__label__perfective provide refactored folder structure face part templates
+__label__corrective cisco vnmc asa1000v ui infrastructure menu physical network network service providers cisco vnmc fix bug detailview load forever
+__label__corrective issue 2900 oflatdatabase remove
+__label__corrective cloudstack 2842 ui fix js error elems undefined when pop dialog box zone dropdown zone create yet
+__label__corrective py 16335 preserve format convert collection literals
+__label__unknown remove duplicate code debug option
+__label__unknown jbosgi 526 duplicate org jboss osgi metadata type repository resolver
+__label__perfective camel 2470 add test send back reply jmsreplyto base temporary queue git svn id https svn apache org repos asf camel trunk 949117 13f79535 47bb 0310 9956 ffa450edef68
+__label__nonfunctional sonar 3104 improve usability project history
+__label__perfective refactored package structure call refactoring
+__label__features browsercompatible feature add double quote long field exceed 2 53 1 2 53 1
+__label__corrective cloudstack 6316 fix bvt failures
+__label__corrective fix cluster state map informaton return map name key source field
+__label__corrective update volumes path fix stop start vm error
+__label__corrective cloudstack 7490 ui templates menu list select template list detail tab zone tab list select zone list detail tab fix bug wrong template zone combination show
+__label__features new tablelayout libgdx feature round size position
+__label__unknown refactored eliminate duplication
+__label__corrective try fix occasional test failuers java client
+__label__corrective cloudstack 1957 cloudstack ui fix js error logout undefined which sometimes show login screen
+__label__perfective refactored dir structure default maven layout
+__label__perfective minor move boxagainstjava logic separate test class
+__label__perfective major refactoring basic structure do
+__label__perfective camel 3796 polish cxfrsproduceraddressoverridetest git svn id https svn apache org repos asf camel trunk 1084067 13f79535 47bb 0310 9956 ffa450edef68
+__label__nonfunctional hadoop 11594 improve readability site index documentation contribute masatake iwasaki
+__label__corrective appliance fix debian iso url fix fail jenkins build
+__label__features responseentity headersbuilder allow specify exist httpheaders issue spr 12324
+__label__features as7 5826 multi jsf feature
+__label__features wfly 1158 add remove vault entry feature default vault impl
+__label__nonfunctional minor performance improvement
+__label__corrective cloudstack 7895 fix script test security group py test case fail simulator testcases try ssh vms
+__label__perfective change http server code simplify structure interaction web server make information request intuitive
+__label__perfective minor improvement collection remove
+__label__corrective cloudstack 7897 fix script test reset ssh keypair py test case fail simulator testcases try ssh vms
+__label__nonfunctional mahout 749 implement multiple reducer approach jira patch plus scalability enhancement avoid accumulate merge clusterids cl option present default behavior test run though need test see how really scale
+__label__features drop database implement test local remote db
+__label__nonfunctional ispn 1015 optimize hotrod client match memcached performance
+__label__unknown fix duplicate import rebase
+__label__corrective 61769706 fix bug where wrong name use header
+__label__features remove plugin isolation feature future version relate 5261
+__label__corrective invalid ui vpc site site vpn vpn fail fix js error elems undefined when click create vpn connection
+__label__perfective spare redundant call sleepingaction around determine delay value 3903 remove redundant outer conditional skip call system currenttimemillis which could potentially result different value
+__label__perfective doc 1125 improve structure plf 3 5 user guide
+__label__nonfunctional make logger static improve performance fix logger name
+__label__corrective fix hudson 2230 fix illegalmonitorstateexception 1 249
+__label__corrective fix latest issue submit thierry boileau
+__label__features add highlight support suggester commit add general highlight support suggest feature implementation implement functionality point phrase suggester api support pre tag post tag use wrap suggest part give user input change suggester close 3442
+__label__features allow plugins register pre configure tokenizers 24751 allow plugins register pre configure tokenizers much decisions 24223 24572 24223 migrate lowercase tokenizer figure good start prove feature
+__label__perfective minor refactoring rdf extension
+__label__corrective cs 6840 fix wrong path check s2s vpn script
+__label__nonfunctional allow ability specify tablename indexexists precondition case implementations make performance improvements
+__label__corrective bug 7553 fix server side bug listserviceoffering api take issystem parameter
+__label__nonfunctional performance improvements when arguments mismatch disable
+__label__nonfunctional titan core performance improvements
+__label__unknown cid 1114592 replace duplicate code call super
+__label__features update rackspace cdn container metadata handle add feature purge cdn object add feature set default index error page cdn base static website
+__label__perfective libs remove repository avoid increase size readme file add instructions how obtain necessary jdt libs jdx use smarter structure store source code e duplicate inside type methods instead recover source code compilation unit source code make dependencyreport much lightweight type equal method check parent compilation unit single source directory alloed simplify model method new attribute hold javadoc smaller change change dependency extraction
+__label__nonfunctional yarn 6768 improve performance yarn api record tostring fromstring contribute jonathan eagle
+__label__unknown minor refactor avoid duplicate function call
+__label__features add error message user try use rename field feature multiple field
+__label__nonfunctional improve jsonparser context test
+__label__features remove java 7 specific language feature
+__label__perfective account repo design simplifications password encode improvements
+__label__nonfunctional improve serialize performance
+__label__corrective tachyon 1238 fix checkstyle errors tachyon common
+__label__perfective hbase 9287 testcatalogtracker depend execution order git svn id https svn apache org repos asf hbase trunk 1516292 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective alluxio 2743 fix fail test
+__label__corrective bug 12381 fix bug open another window view console cause javascript error invalid argument
+__label__corrective alluxio 1819 fix build failure
+__label__nonfunctional remove unnecessary nodesizetransformer partition improve readability nodecolortransformer
+__label__nonfunctional cache performance improvements
+__label__nonfunctional test runner usability improvements
+__label__corrective cloudstack 6065 fix npe problem cause lack context setup thread agent manager thread pool
+__label__nonfunctional style syntax readability improvement
+__label__nonfunctional fix jersey 2002 performance improvements
+__label__nonfunctional andrey artem improve performance index lookup operators
+__label__features install module repository feature work maven jetty
+__label__perfective better name new test use compare 0 19 0 20 want
+__label__nonfunctional merge pull request 1717 graylog2 improve index methods reusability
+__label__corrective automation fix cloudstack 2546 fail add second nic vm kvm environment
+__label__perfective rename representation write appendable append appendable
+__label__corrective add debug ui fix bug browse file system
+__label__features add query validation feature
+__label__perfective sc qcadoocls 5409 introduce functionality generate factory structure production line detail view
+__label__corrective bz 1042867 fix projectclassloader when run osgi
+__label__perfective javadoc annotationconfigapplicationcontext scan string
+__label__perfective remove structure refactored simplify
+__label__features feature request 839 add link jabref section
+__label__unknown fix 610 websocket websocket class must write support atmosphereinterceptorwriter also refactored websocket support avoid duplicate code place
+__label__corrective exception fix diagnose error generic type which subtype set test ea 64453 fix
+__label__corrective hbase 11813 cellscanner advance may overflow stack
+__label__corrective cloudstack 9470 fix sshhelper test network acl fail vmware due bug sshexecute which value return null still stdout consume fix address problem consume stdout peoperly return expect value sshexecute
+__label__unknown remove duplicate code dependency metadata
+__label__corrective bug 8485 merge 2 2 x fix classcastexception return login response xml format
+__label__corrective new ui update vm relate ui change bug 6489 updatevirtualmachine api return embed object success fix
+__label__corrective 1 change name partition file dataservermessage 2 add equal method checkpointinfo 3 fix bug dataserver
+__label__nonfunctional remove recursive record search improve performance
+__label__corrective php fix 6474 bug format date when use model name prefix 6510
+__label__nonfunctional shift initial initialization asyncplayerpreloginevent may improve performance login
+__label__nonfunctional improve json string value write performance
+__label__perfective introduce thunk structure intermediate representation
+__label__corrective cloudstack 4189 ui infrastructure zone dedicatedzone object different zone object fix bug wrongly presume object wrongly mix which cause zone object properties wrongly overriden
+__label__corrective introduce variable forbid extraction class initializer aside body kt 8329 fix
+__label__corrective new ui fix bug disable ha option show
+__label__nonfunctional core 2371 improve performance
+__label__nonfunctional performance tune improve workaround bukkit scheduler bug
+__label__corrective alluxio 2197 fix checkstyle errors
+__label__corrective one dndenabler little fix
+__label__unknown fix 2379 remove duplicate method measure distnce line segment
+__label__perfective jbrules 976 fix problems collections clonning add unit test git svn id https svn jboss org repos labs labs jbossrules trunk 13162 c60d74c8 e8f6 0310 9e8f d4a2fc68ab70
+__label__corrective new ui volume page fix bug js error midmenuitem1 null object jsonobj null object when switch tabs empty page
+__label__features add preview feature description textarea
+__label__corrective ui fix bug cannot delete ssh keypairs project
+__label__perfective client log structure improve
+__label__corrective lucene 4 fix bitsetexecutionchildquerysearchtests class
+__label__unknown move duplicate code separate method
+__label__features support propagation subclass j u collection similar class
+__label__unknown remove duplicate line 2d678063fac318776f60b7f3b1d27323cac06dfc
+__label__perfective webapp design css refactoring
+__label__perfective full label structure extract
+__label__corrective jenkins 32765 fix fail test
+__label__nonfunctional hive 14533 improve performance enforcemaxlength hivecharwritable hivevarcharwritable thomas friedrich review prasanth jayachandran
+__label__nonfunctional wfly 7389 improve undefined statistics enable attribute test infinispan subsystem eap 6 2
+__label__perfective hbase 8033 break testrestoresnapshotfromclient testrestoresnapshotfromclient testclonesnapshotfromclient ted yu git svn id https svn apache org repos asf hbase trunk 1454186 13f79535 47bb 0310 9956 ffa450edef68
+__label__features add read write feature drive elastic host
+__label__perfective hdfs 2500 avoid file system operations bpofferservice thread process delete contribute todd lipcon git svn id https svn apache org repos asf hadoop common branch branch 0 23 1190072 13f79535 47bb 0310 9956 ffa450edef68
+__label__features make admin feature optional url base adminurl identity service catalog
+__label__corrective cloudstack 8235 fix test case test bug py read variable data configurabledata section test data py also fix wrong parameter name
+__label__perfective drool 820 reuse pommodel already available
+__label__features refine new mark feature old style mark unmarked gracefully possible
+__label__nonfunctional minor performance improvements stringutils join
+__label__nonfunctional broadleafcommerce qa 1739 reformatted previously copy method improve readability clarity
+__label__corrective 1 add unit test tachyon client tachyonclient 2 add unit test tachyon client rawtable 3 fix semantics bug cause thrift bug
+__label__nonfunctional optimize memory management performance graph render studio
+__label__features avro extension feature specify multiple avro reader schemas inline 3368
+__label__corrective hbase 1647 filter filterrow call often filter row reverse moment may break things sure yet git svn id https svn apache org repos asf hadoop hbase trunk 798510 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective invalid 3 0 ui site site vpn create connection fail fix bug wrong vpngatewayid pass api command where multiple vpn gateways present one account
+__label__corrective jbrules 85 git svn id https svn jboss org repos labs trunk labs jbossrules 3162 c60d74c8 e8f6 0310 9e8f d4a2fc68ab70
+__label__corrective new ui add host button display host page fix bug podobj find appear when click add host button host page without visit pod page first
+__label__perfective aggregate structure browse convert work front page js convert module
+__label__perfective hopefully functional change refactor exist js ast code enable creation jsmodvisitor implement js ast mods design copy almost verbatim new java ast jvisitor design
+__label__features add tab listener feature toggle
+__label__nonfunctional buffer datainput overflow bug fix ascii aware performance improvement issue 3483
+__label__nonfunctional ispn 1276 improve batch transactional performance profile
+__label__features bz 1158818 please add reminder feature new hire process maitai small improvements
+__label__nonfunctional hbase 5001 improve performance block cache key lars h j
+__label__corrective smallfix fix wrong whitespace change
+__label__nonfunctional merge pull request 740 pveentjer improvement 3 maintenance inmemoryformat cache equal
+__label__corrective jenkins 35020 fix jshint errors 2368
+__label__nonfunctional mahout 1045 commit patch change unit test cdbw number still need user test clusterevaluater result improve test run
+__label__features introduce logout feature upgrade 1 0 2 final console
+__label__perfective preparation store unfinished work when create new dig obj tree structure object refactoring isserializable serializable
+__label__unknown prevent duplicate entries push infos
+__label__features set available processors netty netty use number processors size various resources e g thread pool buffer pool etc however use runtime number available processors which might match configure number processors set elasticsearch limit number thread example docker containers new feature add netty enable configure number processors netty see size various resources commit take advantage feature set number available processors equal configure number processors set elasticsearch relate 24420
+__label__nonfunctional hadoop 10967 improve defaultcryptoextension generateencryptedkey performance hitliuyi via tucu
+__label__perfective name improvements since design review
+__label__perfective bz 986000 drl rulemodel marshal improvements
+__label__perfective fix name
+__label__features wfly 3344 schemas versions bump enable development wildfly 9 feature however maintenance wildfly 8 continue commit port subsequent wildfly 8 maintenance bump versions wildfly 9
+__label__corrective try fix kissfft fail misserably
+__label__corrective bug 13648 fix bug listview widget listview length 0 call window trigger cloudstack fullrefresh call listview listview encounter error when listview length 0
+__label__corrective fix generation cache directives cache control header
+__label__perfective improve show annotate peak feature improve way pdb protein alignment display minor gui update protein structure tab update jsparklines 0 5 14 utilities 3 1 23 move project version 007 5 2
+__label__unknown remove releaseversion duplicate packageversion
+__label__features changeutil encode decodeinformation groovy
+__label__corrective fix connection close regression
+__label__unknown remove duplicate method
+__label__perfective new optimize structure getchildgroupsrecursiveresultfiltered
+__label__features modify golf example clearer use feature drool 4
+__label__features html formatter produce empty report feature run close 191
+__label__corrective kt 3639 find source abstractiterator when navigate stack strace fix
+__label__features reindex remote add remote option reindex look like curl post localhost 9200 reindex pretty source remote host http otherhost 9200 index target query match foo bar dest index target reindex feature local reindex use query filter what copy retry rejection throttle rethottle big advantage version go http api which make backwards compatible things different query field send directly node rather parse coordinate node allow support construct invalid coordinate node valid target node mostly mean old syntax
+__label__nonfunctional implement maven process cache improve performance especially distribute environment
+__label__features disclose line filter apply feature paths
+__label__nonfunctional issue 614 improve raf hash performance
+__label__corrective camel 3240 fix camel core build error git svn id https svn apache org repos asf camel trunk 1058911 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective cloudstack 109 cloudstack ui 1 account page fix bug system generate default admin account wrongly enalbe disable lock remove option 2 user page fix bug system generate default admin account user wrongly enable disable remove option
+__label__corrective cloudstack 3 0 new ui add network offer fix bug array index servicecapabilitylist wrongly pass api
+__label__unknown fix duplicate metrics report two components subscribe metric page
+__label__perfective camel 2180 use copy exchange when process docatch git svn id https svn apache org repos asf camel trunk 881175 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective alluxio 1949 fix fail integration test
+__label__corrective php fix syntax error when pattern contain single quote
+__label__features add virtual column type holder serde safety feature 3823
+__label__unknown remove duplicate code websocketimpl websocketimplbase
+__label__corrective cloudstack 5076 fix wrong bridge name vm domain xml desc upgrade 4 0 4 2
+__label__corrective volume upload fix error message incase wrong image format
+__label__nonfunctional improve performance when get users users convert
+__label__nonfunctional modest improvements use jdbc better use prepare statement reuse connections situations
+__label__perfective refactoring annotationresolver resolveannotation arguments
+__label__features add back reuse bitmap feature
+__label__features add ops vm datacenter feature softlayer
+__label__perfective datacmns 1143 improve design abstractaggregateroot
+__label__nonfunctional update incrementalindex support unsorted facts map use groupby merge improve performance
+__label__nonfunctional improve performance clear map instead recreate
+__label__nonfunctional improve readability schema h2 ddl
+__label__corrective alluxio 1909 fix fail test
+__label__features hbase 9369 add support 1 2 byte integers orderedbytes provide type liangliang git svn id https svn apache org repos asf hbase trunk 1524297 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective integrate newer version fix groovy view reload problem
+__label__nonfunctional bz 982586 optimize compilation performance parallelize generate class wire cache alphanodes hash
+__label__nonfunctional improve mathutils code performance when get statistics
+__label__features percolator replace percolate api new percolator query also replace percolatorqueryregistry new percolatorquerycache percolatorfieldmapper store rewrite form percolator query xcontext binary doc value field make sure query rewrite happen index query example fetch shape term remote indices speed load query percolator query cache percolator work inside search infrastructure number feature sort field pagination fetch feature available box follow feature request automatically implement via refactoring close 10741 close 7297 close 13176 close 13978 close 11264 close 10741 close 4317
+__label__corrective cloudstack 4459 fix silly bug one time
+__label__perfective delete old structure trunk order copy modularized structure branch merge command fail miserably
+__label__perfective remove equal hashcode part pipeline adapt test mutateprocessor implement equal hashcode hence would use one test since rely better rely equal hashcode drop mock processor pipeline test need also allow make mutateprocessor constructor package private processors
+__label__nonfunctional trunk 4374 improve performance getcountofconcepts
+__label__corrective integrate version fix bug method match
+__label__nonfunctional alluxio 1839 improve readability
+__label__nonfunctional issue 2901 pool performance improve 255 000 ins benchmark
+__label__corrective automation fix test failure test 02 revert vm snapshots smoke test vm snapshots py
+__label__perfective jax rs extension add javadoc util methods
+__label__unknown remove duplicate class path entry could fix bug 531505
+__label__corrective camel 1510 batchprocessor interrupt side effect submit behalf christopher hunt git svn id https svn apache org repos asf camel trunk 765686 13f79535 47bb 0310 9956 ffa450edef68
+__label__features improve events new inventory feature add bukkit 3859
+__label__corrective fix issue 853 defaultsslcontextfactory would ignore enabledciphersuites unless also specify enabledprotocols due copy paste error
+__label__perfective methods convert proofprocess tree structure scala graph
+__label__corrective 5784 fix log rotation configuration problem opensuse
+__label__nonfunctional partial search query performance improve
+__label__features create html help system which hook menu help button also run automatically first time new version app run particular device write bunch page which feature great art joseph include what new page edit every release
+__label__nonfunctional sonar 5868 improve performances fs indexation
+__label__perfective docearevent structure refactored
+__label__corrective temporarely disabing vpc test part require fail real db enable fix problem
+__label__features run scenarios feature name close 233 323
+__label__nonfunctional docfix small change improve readability
+__label__perfective structure cleanup reorg add shutdown hook
+__label__features remove old feature branche
+__label__corrective api fix fail unit test regression due recent merge
+__label__features continue sip transaction support
+__label__features refactored jdbcclient return xml result set use new rowsetrepresentation class addition xml request contain several sql statements execute batch contribute thierry boileau
+__label__perfective refactored package structure improve couple
+__label__features 272 logstash new feature polish
+__label__corrective mapreduce 3345 fix race condition resourcemanager cause testcontainermanagersecurity fail sometimes contribute hitesh shah svn merge c r1199144 ignore ancestry trunk git svn id https svn apache org repos asf hadoop common branch branch 0 23 1199145 13f79535 47bb 0310 9956 ffa450edef68
+__label__corrective make progress bug fix add clear error support
+__label__perfective reorganize package structure introduce maven
+__label__unknown remove duplicate test stop vm
+__label__nonfunctional avro 1332 c improve datumreader performance contribute david mcintosh
+__label__corrective fix bug domrepresentation cause loss public system doctype report lee saferite
+__label__corrective smallfix fix wrong use configuration ufs creation
+__label__features implement admin function clear capture data generally useful even currently yet rollover feature limit amount capture data
+__label__perfective first push massive refactoring gremlin gremlin groovy gremlin scala still noisy structure
+__label__corrective bug 11202 cloudstack service offer page fix bug network rate get refresh when another service offer select
+__label__features create feature branch cost base optimizer work
+__label__corrective lucene 4 use proper token stream return
+__label__nonfunctional various improvements safeguard around path handle faunusvertex fix object reuse bug around paths well
+__label__corrective cloudstack 3612 fix miss index cloud table bug table address table 4 table 5 table 6
+__label__nonfunctional testability improvements
+__label__features mahout 492 modify interactionvalueencoder generic allow interactions two featurevectorencoders also allow specify weight apply interaction
+__label__features hudson 3889 1 325 add ping support master detect dead connections rapidly feature default feel comfortable enough feature work correctly
+__label__corrective cloudstack 3 0 ui fix space problem patch
+__label__nonfunctional store small performance improvement deserialization
